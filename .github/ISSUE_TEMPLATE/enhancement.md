@@ -2,7 +2,7 @@
 name: Enhancement
 about: For suggesting improvements or requesting new features to enhance the functionality
   of the project.
-title: "[Ehancement]"
+title: "[Ehancement]<Feature Request>"
 labels: enhancement
 assignees: codance-ai
 

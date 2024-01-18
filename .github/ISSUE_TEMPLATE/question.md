@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question
-title: "[Question]"
+title: "[Question]<Short Description of the Question>"
 labels: question
 assignees: codance-ai
 
